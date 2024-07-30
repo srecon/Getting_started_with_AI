@@ -1,6 +1,7 @@
+#export GROQ_API_KEY=<your-api-key-here>
 import os
 from groq import Groq
-groq_key="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"
+groq_key=""
 client = Groq(
     api_key=os.environ.get(groq_key),
 )
