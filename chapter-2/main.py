@@ -1,15 +1,15 @@
 #export GROQ_API_KEY=<your-api-key-here>
 import os
 from groq import Groq
-groq_key=""
+#groq_key=""
 client = Groq(
-    api_key=os.environ.get(groq_key),
+    api_key=os.environ.get("$GROQ_API_KEY"),
 )
 chat_completion = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "Who is the author of the Apache Ignite book?",
+            "content": "Write a python web app for tranfer file and messages",
         }
     ],
     model="llama-3.1-70b-versatile",
