@@ -40,10 +40,10 @@ The final chapter addresses one of the most exciting applications of LLMs: autom
 
 ## Prerequirities
 
-We recommend a workstation with the following configurations
+@todo
 
 ## build and install
-
+@todo
 
 ## Conventions
 
@@ -83,15 +83,4 @@ export OLLAMA_HOST="192.168.1.124"
 Processing ./Text2SQL.png file 
 ```
 
-T> ## Tip
-T>
-T> This icon signifies a tip, suggestion.
-
-W> ## Warning
-W>
-W> This icon indicates a warning or caution.
-
-I> ## Info
-I>
-I> This icon signifies general note.
 
