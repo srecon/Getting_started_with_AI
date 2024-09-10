@@ -1,5 +1,5 @@
-# Getting started with AI
-All code samples, scripts and more in-depth examples for the book [Getting started with AI](https://github.com/srecon/Getting_started_with_AI)
+# Getting started with Generative AI
+All code samples, scripts and more in-depth examples for the book [Getting started with Generative AI](https://leanpub.com/quickstartwithai)
 
 
 ## Naming conventions
@@ -10,13 +10,13 @@ Each chapter in the book has a corresponding folder within the repository. Each 
 
 This book provides a comprehensive guide to leveraging Generative AI and Large Language Models (LLMs) in a local development environment. It is designed to take you from the basics of Generative AI to advanced techniques like fine-tuning models, enriching them with private datasets, and applying them in practical scenarios such as SQL querying, image processing, and code generation. Whether you're a _product owners_, _developers_, _data scientists_, and _AI enthusiasts_ , this book will equip you with the knowledge and tools needed to effectively utilize AI in your projects.
 
-__Chapter 1. Introduction to GenerativeAI__
-
-The journey begins with an introduction to Generative AI, explaining what it is, how it works, and why it is revolutionizing various fields. This chapter covers the fundamental concepts of AI, machine learning, and deep learning, laying the groundwork for understanding how LLMs generate content such as text, code, and images. You'll learn about different types of generative models, including GANs, VAEs, and Transformers, and explore their applications across industries.
-
-__Chapter 2. Setting Up Your Local Development Environment__
+__Chapter 1. Getting started with Local LLM__
 
 Before diving into AI model implementation, it’s essential to set up a robust local development environment. This chapter guides you through the process of configuring your machine for AI development, including installing necessary software, setting up Python environments, and choosing the right hardware (like GPUs) for optimal performance. The chapter also introduces tools like Docker, Jupyter notebooks which will help streamline your AI development workflow.
+
+__Chapter 2. Deep dive into the theories of Generative AI__
+
+The journey begins with an introduction to Generative AI, explaining what it is, how it works, and why it is revolutionizing various fields. This chapter covers the fundamental concepts of AI, machine learning, and deep learning, laying the groundwork for understanding how LLMs generate content such as text, code, and images. You'll learn about different types of generative models, including GANs, VAEs, and Transformers, and explore their applications across industries.
 
 __Chapter 3: RAG, enrich LLM models with private datasets__
 
@@ -40,9 +40,17 @@ The final chapter addresses one of the most exciting applications of LLMs: autom
 
 ## Prerequirities
 
-@todo
+| Tools and framework | Description |
+|---|---|
+| LLM runner | Ollama, Groq |
+| LLM | Llama 3.1, codestral, Llava, Openjourney |
+| Programming language | Python |
+| App developing | Langchain, Vanna, CrewAI |
+| ML platform  | Hugging face |
+| Image processin | PyTorch |
 
 ## build and install
+
 @todo
 
 ## Conventions
