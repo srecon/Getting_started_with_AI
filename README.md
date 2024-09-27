@@ -34,7 +34,7 @@ __Chapter 6: Image processing & generating with LLM__
 
 Generative AI is not limited to text; it also plays a significant role in image processing and generation. This chapter explores how LLMs can be used to create and manipulate images. The chapter provides practical examples and tools, including using models like LLaVa, OpenJourney, to integrate image generation into your projects.
 
-__Chapter 7: Code generation and testing with LLM__
+__Chapter 7: Developing and utilizing AI agents__
 
 The final chapter addresses one of the most exciting applications of LLMs: automated code generation and testing. You’ll discover how to use AI to generate code snippets, complete functions, and even write entire programs based on natural language descriptions. The chapter also covers automated testing, where LLMs can be used to generate test cases and validate code, improving the efficiency and reliability of software development. Practical examples and case studies illustrate how these tools can streamline the coding process, reduce errors, and accelerate development timelines.
 
@@ -48,10 +48,6 @@ The final chapter addresses one of the most exciting applications of LLMs: autom
 | App developing | Langchain, Vanna, CrewAI |
 | ML platform  | Hugging face |
 | Image processin | PyTorch |
-
-## build and install
-
-@todo
 
 ## Conventions
 
