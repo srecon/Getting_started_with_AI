@@ -23,7 +23,7 @@ __Chapter 3: RAG, enrich LLM models with private datasets__
 
 This chapter delves into the concept of Retrieval-Augmented Generation (RAG), a cutting-edge technique that enhances LLMs by integrating them with private datasets. You’ll learn how to enrich your AI models with domain-specific knowledge, enabling them to provide more accurate and relevant outputs. The chapter covers the technical steps to set up RAG, including indexing private data and configuring the model to retrieve and generate responses based on this enriched information.
 
-__Chapter 4: Text-to-SQL, achieving BigQuery interactions__
+__Chapter 4: Text-to-SQL, enhance your LLM responses by integrating data from the Database__
 
 AI-driven automation in database interactions is increasingly valuable, and this chapter focuses on using LLMs for Text-to-SQL conversion. You’ll learn how to use models that can translate natural language queries into SQL commands, specifically tailored for interactions with BigQuery. The chapter includes practical examples and code snippets, showing how to create systems that allow users to interact with databases without needing to know SQL, making data retrieval more accessible and efficient.
  
