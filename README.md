@@ -1,7 +1,7 @@
 # Getting started with Generative AI
 All code samples, scripts and more in-depth examples for the book [Getting started with Generative AI](https://leanpub.com/quickstartwithai)
 
-![Book Image](./genAI_mini.png)
+<img src="./genAI_mini.png" alt="Book Image" width="40%" height="40%">
 
 ## Naming conventions
 
