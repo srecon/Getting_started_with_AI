@@ -1,5 +1,5 @@
-# Getting started with Generative AI
-All code samples, scripts and more in-depth examples for the book [Getting started with Generative AI](https://leanpub.com/quickstartwithai)
+# Generative AI with local LLM
+All code samples, scripts and more in-depth examples for the book [Generative AI with local LLM](https://leanpub.com/quickstartwithai)
 
 <img src="./genAI_mini.png" alt="Book Image" width="40%" height="40%">
 
