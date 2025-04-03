@@ -39,14 +39,18 @@ __Chapter 7: Developing and utilizing AI agents__
 
 The final chapter addresses one of the most exciting applications of LLMs: automated code generation and testing. You’ll discover how to use AI to generate code snippets, complete functions, and even write entire programs based on natural language descriptions. The chapter also covers automated testing, where LLMs can be used to generate test cases and validate code, improving the efficiency and reliability of software development. Practical examples and case studies illustrate how these tools can streamline the coding process, reduce errors, and accelerate development timelines.
 
+__Chapter 8: Advanced Tools and Techniques__
+
+The final chapter provided a comprehensive exploration of advanced tools and techniques for enhancing AI applications using the Model Context Protocol (MCP) framework and Minion(s) protocol. The chapter highlighted how tools like mcp-cli empower developers to experiment with language models and interact with MCP servers programmatically. This opens up possibilities for automating tasks, summarizing content, and accessing structured data through AI-driven prompts.
+
 ## Prerequirities
 
 | Tools and framework | Description |
 |---|---|
 | LLM runner | Ollama, Groq |
-| LLM | Llama 3.1, codestral, Llava, Openjourney |
+| LLM | Llama, Qwen, codestral, Llava, Openjourney |
 | Programming language | Python |
-| App developing | Langchain, Vanna, CrewAI |
+| App developing | Langchain, Vanna, CrewAI, OpenAI SDK |
 | ML platform  | Hugging face |
 | Image processin | PyTorch |
 
