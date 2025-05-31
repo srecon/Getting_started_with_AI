@@ -115,9 +115,9 @@ def delete_order(order_id: int) -> dict:
 
 # Add the MCP server to your FastAPI app
 mcp = FastApiMCP(
-    app,  
-    name="My API MCP",  # Name for your MCP server
-    description="MCP server for my API",  # Description
+    app,
+    name="Warehouse MCP",
+    description="MCP server for managing warehouse orders.",
 )
 
 # Mount the MCP server to your FastAPI app
