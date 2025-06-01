@@ -3,3 +3,4 @@ fastapi
 redis
 types-redis
 uvicorn
+fastapi-mcp
