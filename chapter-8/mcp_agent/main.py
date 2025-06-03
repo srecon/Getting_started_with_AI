@@ -6,7 +6,7 @@ from mcp_agent.agents.agent import Agent
 from mcp_agent.workflows.llm.augmented_llm_openai import OpenAIAugmentedLLM
 from mcp_agent.workflows.llm.augmented_llm import RequestParams
 
-app = MCPApp(name="hello_world_agent")
+app = MCPApp(name="Inventory Agent")
 
 async def example_usage():
     async with app.run() as mcp_agent_app:
