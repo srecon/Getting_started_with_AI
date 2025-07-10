@@ -1,7 +1,7 @@
 # Generative AI with local LLM
 All code samples, scripts and more in-depth examples for the book [Generative AI with local LLM](https://leanpub.com/quickstartwithai)
 
-<img src="./GenAILLM.png" alt="Book Image" width="40%" height="40%">
+<img src="./GenAILLM.png" alt="Book Image" width="100%" height="100%">
 
 ## Naming conventions
 
