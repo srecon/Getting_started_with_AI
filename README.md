@@ -1,7 +1,7 @@
 # Generative AI with local LLM
 All code samples, scripts and more in-depth examples for the book [Generative AI with local LLM](https://leanpub.com/quickstartwithai)
 
-<img src="./GenAILLM.png" alt="Book Image">
+<img src="./GenAILLM.png" alt="Book Image" width="250px">
 
 ## Naming conventions
 
@@ -125,6 +125,6 @@ BibTeX entry:
   publisher    = {Leanpub},
   year         = {2024},
   url          = {https://leanpub.com/quickstartwithai},
-  github       = {https://github.com/srecon/Getting_started_with_AI}
+  github       = {https://github.com/srecon/Getting_started_with_AI }
 }
 ```
