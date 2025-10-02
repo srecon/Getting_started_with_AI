@@ -95,16 +95,15 @@ Processing ./Text2SQL.png file
 
 Here’s a quick guide to navigating the book’s codebase by chapters.
 
-| Chapter Title                                                                            | Codebase                                                                               | Summary                                                |
-|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Chapter 1. Getting started with Local LLM                                                | [chapter-1](<br>https://github.com/srecon/Getting_started_with_AI/tree/main/chapter-1) | - CLI_commands.md<br>- TokenaizationAndEmbedding.ipynb |
-| Chapter 2. Deep dive into the theories of Generative AI                                  |                                                                                        |                                                        |
-| Chapter 3: RAG, enrich LLM models with private datasets                                  |                                                                                        |                                                        |
-| Chapter 4: Text-to-SQL, enhance your LLM responses by integrating data from the Database |                                                                                        |                                                        |
-| Chapter 5: Fine tuning LLM model                                                         |                                                                                        |                                                        |
-| Chapter 6: Image processing & generating with LLM                                        |                                                                                        |                                                        |
-| Chapter 7: Developing and utilizing AI agents                                            |                                                                                        |                                                        |
-| Chapter 8: Advanced Tools and Techniques                                                 |                                                                                        |                                                        |
-
+| Chapter Title                                                                            | Codebase                   | Summary                                                                                                                           |
+|------------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Chapter 1. Getting started with Local LLM                                                | [./chapter-1](./chapter-1) | - [CLI_commands.md](chapter-1/CLI_commands.md)<br/>- [TokenaizationAndEmbedding.ipynb](chapter-1/TokenaizationAndEmbedding.ipynb) |
+| Chapter 2. Deep dive into the theories of Generative AI                                  |                            |                                                                                                                                   |
+| Chapter 3: RAG, enrich LLM models with private datasets                                  |                            |                                                                                                                                   |
+| Chapter 4: Text-to-SQL, enhance your LLM responses by integrating data from the Database |                            |                                                                                                                                   |
+| Chapter 5: Fine tuning LLM model                                                         |                            |                                                                                                                                   |
+| Chapter 6: Image processing & generating with LLM                                        |                            |                                                                                                                                   |
+| Chapter 7: Developing and utilizing AI agents                                            |                            |                                                                                                                                   |
+| Chapter 8: Advanced Tools and Techniques                                                 |                            |                                                                                                                                   |
 
 
