@@ -11,6 +11,10 @@ Each chapter in the book has a corresponding folder within the repository. Each 
 
 This book provides a comprehensive guide to leveraging Generative AI and Large Language Models (LLMs) in a local development environment. It is designed to take you from the basics of Generative AI to advanced techniques like fine-tuning models, enriching them with private datasets, and applying them in practical scenarios such as SQL querying, image processing, and code generation. Whether you're a _product owners_, _developers_, _data scientists_, and _AI enthusiasts_ , this book will equip you with the knowledge and tools needed to effectively utilize AI in your projects.
 
+The roadmap below summarizes a practical learning path for Generative AI.
+
+<img src="./Road_map_09072025.png" alt="Roadmap">
+
 __Chapter 1. Getting started with Local LLM__
 
 Before diving into AI model implementation, it’s essential to set up a robust local development environment. This chapter guides you through the process of configuring your machine for AI development, including installing necessary software, setting up Python environments, and choosing the right hardware (like GPUs) for optimal performance. The chapter also introduces tools like Docker, Jupyter notebooks which will help streamline your AI development workflow.
@@ -114,10 +118,6 @@ Here’s a quick guide to navigating the book’s codebase by chapters.
 | Chapter 7: Developing and utilizing AI agents                                            | [./chapter-7](./chapter-7) | - [OpenAI_SDK_v1.ipynb](./chapter-7/OpenAI_SDK_v1.ipynb)<br/>- [crewAiagents.ipynb](chapter-7/crewai_agent_for_content_generation_v1.ipynb)                                                                                                                               |
 | Chapter 8: Advanced Tools and Techniques                                                 | [./chapter-8](./chapter-8) | - [./a2a](./chapter-8/a2a)<br/>- [./acp](./chapter-8/acp)<br/>- [./fastapi](./chapter-8/fastapi)<br/>- [./mcp](./chapter-8/mcp)<br/>- [./mcp_agent](./chapter-8/mcp_agent)<br/>- [./minion](./chapter-8/minion)                                                           |
 
-
-The roadmap below summarizes a practical learning path for Generative AI.
-
-<img src="./Road_map_09072025.png" alt="Roadmap">
 
 &nbsp;
 ## Citation
