@@ -1,5 +1,3 @@
-# All CLI commands from the chapter 1
-
 ## Installing and setting up the local LLM inference
 
 __Download and Install Ollama.__:
@@ -34,3 +32,17 @@ ollama serve
 ollama run llama3.1
 
 ```
+## Installing Open WebUI client to work with local LLM
+
+- First, make sure Docker is installed and set up on your system.
+- If you want to install ```Open WebUI``` on the __same machine__ where Ollama is running, use this command:
+
+```bash
+docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+```  
+- If you want to install Open WebUI on a __different machine__ and use Ollama as a service, execute the following command:
+
+```bash
+docker run -d -p 3000:8080 -e OLLAMA_BASE_URL=https://IP_ADDRESS_OF_OLLAMA_SERVER -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+```
+After installation, The Open WebUI web interface can be accessed at ```http://IP_ADDRESS_OPENWEB:3000```.
