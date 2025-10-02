@@ -43,6 +43,14 @@ __Chapter 8: Advanced Tools and Techniques__
 
 The final chapter provided a comprehensive exploration of advanced tools and techniques for enhancing AI applications using the Model Context Protocol (MCP) framework and Minion(s) protocol. The chapter highlighted how tools like mcp-cli empower developers to experiment with language models and interact with MCP servers programmatically. This opens up possibilities for automating tasks, summarizing content, and accessing structured data through AI-driven prompts.
 
+To download a copy of this repository, click on the [Download ZIP](https://github.com/srecon/Getting_started_with_AI/archive/refs/heads/main.zip) button or execute the following command in your terminal:
+
+```bash
+git clone git@github.com:srecon/Getting_started_with_AI.git
+```
+
+<br>
+
 ## Prerequirities
 
 | Tools and framework | Description |
@@ -106,6 +114,10 @@ Here’s a quick guide to navigating the book’s codebase by chapters.
 | Chapter 7: Developing and utilizing AI agents                                            | [./chapter-7](./chapter-7) | - [OpenAI_SDK_v1.ipynb](./chapter-7/OpenAI_SDK_v1.ipynb)<br/>- [crewAiagents.ipynb](chapter-7/crewai_agent_for_content_generation_v1.ipynb)                                                                                                                               |
 | Chapter 8: Advanced Tools and Techniques                                                 | [./chapter-8](./chapter-8) | - [./a2a](./chapter-8/a2a)<br/>- [./acp](./chapter-8/acp)<br/>- [./fastapi](./chapter-8/fastapi)<br/>- [./mcp](./chapter-8/mcp)<br/>- [./mcp_agent](./chapter-8/mcp_agent)<br/>- [./minion](./chapter-8/minion)                                                           |
 
+
+The roadmap below summarizes a practical learning path for Generative AI.
+
+<img src="./Road_map_09072025.png" alt="Roadmap">
 
 &nbsp;
 ## Citation
