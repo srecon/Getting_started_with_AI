@@ -52,7 +52,7 @@ The final chapter provided a comprehensive exploration of advanced tools and tec
 | Programming language | Python |
 | App development framework | Langchain, Vanna, CrewAI, OpenAI SDK |
 | ML/AI Hub  | Hugging face |
-| Image processin | PyTorch |
+| Image processing | PyTorch |
 
 ## Conventions
 
