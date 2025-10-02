@@ -105,3 +105,26 @@ Here’s a quick guide to navigating the book’s codebase by chapters.
 | Chapter 6: Image processing & generating with LLM                                        | [./chapter-6](./chapter-6) | - [Text2image_colab_cuda.ipynb](./chapter-6/Text2image_colab_cuda.ipynb)<br/>- [imagevisioning.ipynb](chapter-6/imagevisioning.ipynb)<br/>- [text2image.ipynb](chapter-6/text2image.ipynb)                                                                                |
 | Chapter 7: Developing and utilizing AI agents                                            | [./chapter-7](./chapter-7) | - [OpenAI_SDK_v1.ipynb](./chapter-7/OpenAI_SDK_v1.ipynb)<br/>- [crewAiagents.ipynb](chapter-7/crewai_agent_for_content_generation_v1.ipynb)                                                                                                                               |
 | Chapter 8: Advanced Tools and Techniques                                                 | [./chapter-8](./chapter-8) | - [./a2a](./chapter-8/a2a)<br/>- [./acp](./chapter-8/acp)<br/>- [./fastapi](./chapter-8/fastapi)<br/>- [./mcp](./chapter-8/mcp)<br/>- [./mcp_agent](./chapter-8/mcp_agent)<br/>- [./minion](./chapter-8/minion)                                                           |
+
+
+&nbsp;
+## Citation
+
+If you find this book or code useful for your work, please consider citing it.
+
+Chicago-style citation:
+
+> Shamim bhuiyan. *Generative AI with local LLM*. Leanpub, 2024.
+
+BibTeX entry:
+
+```
+@book{Generative-AI-with-local-LLM
+  author       = {Shamim Bhuiyan},
+  title        = {Generative AI with local LLM},
+  publisher    = {Leanpub},
+  year         = {2024},
+  url          = {https://leanpub.com/quickstartwithai},
+  github       = {https://github.com/srecon/Getting_started_with_AI}
+}
+```
