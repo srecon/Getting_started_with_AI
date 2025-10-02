@@ -47,11 +47,11 @@ The final chapter provided a comprehensive exploration of advanced tools and tec
 
 | Tools and framework | Description |
 |---|---|
-| LLM runner | Ollama, Groq |
+| LLM inference | Ollama, Groq |
 | LLM | Llama, Qwen, codestral, Llava, Openjourney |
 | Programming language | Python |
-| App developing | Langchain, Vanna, CrewAI, OpenAI SDK |
-| ML platform  | Hugging face |
+| App development framework | Langchain, Vanna, CrewAI, OpenAI SDK |
+| ML/AI Hub  | Hugging face |
 | Image processin | PyTorch |
 
 ## Conventions
